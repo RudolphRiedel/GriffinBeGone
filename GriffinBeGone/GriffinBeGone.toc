@@ -1,8 +1,8 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: Griffin-Be-Gone
 ## Author: Rudolph Riedel
 ## Notes: Removes the griffins from the action bar in the Blizzard default UI.
-## Version: 2.1
+## Version: 2.2
 ## X-Credits: Deathpants-Wildhammer-EU
 ## X-Category: Interface Enhancements
 ## X-Website: https://github.com/RudolphRiedel/GriffinBeGone
