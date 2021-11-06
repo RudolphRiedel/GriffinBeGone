@@ -1,4 +1,4 @@
-## Interface: 90100
+## Interface: 90105
 ## Title: Griffin-Be-Gone
 ## Author: Rudolph Riedel
 ## Notes: Removes the griffins from the action bar in the Blizzard default UI.
